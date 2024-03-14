@@ -7,7 +7,8 @@
 
 body{
     background-color: #FF8E8F;
-  
+    font-size: 20px;
+    
 }
 
 .sectionOne{
@@ -19,15 +20,17 @@ body{
     
 }
 .pfp {
-width: 500px;
+width: 100%;
 border-radius: 50%;
-border: 3px solid #F7418F;
+height: 100%;
 
 }
 
 .info {
     width: 300px;
     font-size: 20px;
+    
+    
 }
 
 
@@ -35,8 +38,8 @@ border: 3px solid #F7418F;
     padding: 10px;
     background-color: black;  
     color: white;
-    border-radius: 10px;
     font-size: 15px;
+    margin: 10px;
 }
 
 
@@ -67,13 +70,13 @@ border: 3px solid #F7418F;
 img {
     width: 100%;
     height: 50%;
-    border-radius: 20px;
+ 
    
     
 }
 
 .p1{
-    border: 2px solid black;
+ 
     margin: 5px;
     padding: 10px ; 
     font-size: 20px;

@@ -3,7 +3,7 @@ import {info} from "./info.js"
 import {cards} from "./card.js"
 
 const myObj1 = {
-    title : "My portfolio",
+    title : "My portfolio", 
     disc : "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it.",
     btn : "About me",
     myimg : "img1.jpg"
